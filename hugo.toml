@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/leanann778866-lgtm.github.io/Yang-s-blog/'
+baseURL = ' https://leanann778866-lgtm.github.io/Yang-s-blog/'
 locale = 'zh-cn'
 title = '羊的自留地'
 theme = "ritzy"
